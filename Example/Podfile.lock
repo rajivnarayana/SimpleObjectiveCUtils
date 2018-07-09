@@ -1,0 +1,16 @@
+PODS:
+  - SimpleUtils (0.1.0)
+
+DEPENDENCIES:
+  - SimpleUtils (from `../`)
+
+EXTERNAL SOURCES:
+  SimpleUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SimpleUtils: 99937cd0c3449e2de549f08911e8949b6cc5c19d
+
+PODFILE CHECKSUM: 0c69c85384e14e8eb9746096f196f05ce82cc6c2
+
+COCOAPODS: 1.5.0
