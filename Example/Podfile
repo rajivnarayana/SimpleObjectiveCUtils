@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SimpleUtils_Example' do
+  pod 'SimpleUtils', :path => '../'
+
+  target 'SimpleUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
